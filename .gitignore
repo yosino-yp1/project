@@ -1,0 +1,7 @@
+# すべて無視
+*
+
+# css と sass の中身だけ許可
+!css/
+!sass/
+!.gitignore
