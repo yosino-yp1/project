@@ -1,9 +1,0 @@
-# すべて無視
-*
-
-# css と sass のフォルダと中身を許可
-!css/
-!css/**
-!sass/
-!sass/**
-!.gitignore
