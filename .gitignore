@@ -1,7 +1,0 @@
-# すべて無視
-*
-
-# ただし以下は除外（＝GitHub に含める）
-!sass/
-!css/
-!.gitignore
